@@ -6,10 +6,10 @@ con
 
 git
 
-<<<<<<< HEAD
+
 
 
 jeje bueno :$
-=======
+
 jojo ;)
->>>>>>> f3c66ac8c5a52ce62172bfa9dc9cac40f9d8bcfc
+
